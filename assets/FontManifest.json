@@ -1,26 +1,26 @@
 [
-    {
-      "family": "MaterialIcons",
-      "fonts": [
-        {
-          "asset": "MaterialIcons-Extended.ttf"
-        }
-      ]
-    },
-    {
-      "family": "GoogleSans",
-      "fonts": [
-        {
-          "asset": "GoogleSans-Regular.ttf"
-        }
-      ]
-    },
-    {
-      "family": "GalleryIcons",
-      "fonts": [
-        {
-          "asset": "GalleryIcons.ttf"
-        }
-      ]
-    }
+  {
+    "family": "MaterialIcons",
+    "fonts": [
+      {
+        "asset": "MaterialIcons-Extended.ttf"
+      }
+    ]
+  },
+  {
+    "family": "GoogleSans",
+    "fonts": [
+      {
+        "asset": "GoogleSans-Regular.ttf"
+      }
+    ]
+  },
+  {
+    "family": "GalleryIcons",
+    "fonts": [
+      {
+        "asset": "GalleryIcons.ttf"
+      }
+    ]
+  }
 ]
